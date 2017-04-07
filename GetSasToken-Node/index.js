@@ -1,6 +1,4 @@
-// An HTTP trigger Azure Function that returns a SAS token for Azure Storage for the specified container. 
-// You can also optionally specify a particular blob name and access permissions. 
-// To learn more, see https://github.com/Azure-Samples/functions-dotnet-sas-token/blob/master/README.md
+
 
 var azure = require('azure-storage');
 
